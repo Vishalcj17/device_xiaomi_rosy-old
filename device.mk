@@ -164,7 +164,8 @@ PRODUCT_PACKAGES += \
     liboverlay \
     libqdMetaData.system \
     libgenlock \
-    libtinyxml
+    libtinyxml \
+    libvulkan
 
 # Doze mode
 PRODUCT_PACKAGES += \
